@@ -32,3 +32,6 @@ El uso del workspace en Postman requiere que se sigan los pasos que se describen
 Una vez clonado el repositorio se recomienda realizar la instalación de los paquetes.
 
 Culminada la instalación de paquetes se debe proceder a correr el proyecto el cual inicia desde el archivo 'TechtestApplication.java' por defecto.
+
+### Observación
+No se pudo lograr las pruebas unitarias correspondientes a deleteById en los 3 servicios principales del CRUD.
